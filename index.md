@@ -8,8 +8,9 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Clinical Natural Language Processing**
+- **Large Language Models in Healthcare**
+- **Muitimodal Deep Learning in Biomedical Images and Text**
 
 ## News
 
