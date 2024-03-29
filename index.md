@@ -17,7 +17,7 @@ I am a Ph.D. student in Biomedical and Health Informatics at the [University of 
 - **[Mar. 2024]** Our Doctoral Consortium paper is accepted to IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) in Orlando, Florida.
 - **[Sep. 2023]** I just started my Ph.D. at the University of Washington!
 - **[Aug. 2023]** Our paper about medical evidence summarization is accepted to npj Digital Medicine.
-- **[May. 2023]** Our review paper about multimodal deep learning is accepted to JBI.
+- **[Aug. 2023]** Our review paper about multimodal deep learning is accepted to JBI.
 
 {% include_relative _includes/publications.md %}
 
