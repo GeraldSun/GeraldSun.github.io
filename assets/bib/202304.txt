@@ -1,0 +1,10 @@
+@article{wang2023nlp,
+  title={An NLP approach to identify SDoH-related circumstance and suicide crisis from death investigation narratives},
+  author={Wang, Song and Dang, Yifang and Sun, Zhaoyi and Ding, Ying and Pathak, Jyotishman and Tao, Cui and Xiao, Yunyu and Peng, Yifan},
+  journal={Journal of the American Medical Informatics Association},
+  volume={30},
+  number={8},
+  pages={1408--1417},
+  year={2023},
+  publisher={Oxford University Press}
+}
