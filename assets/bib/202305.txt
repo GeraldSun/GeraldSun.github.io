@@ -1,0 +1,10 @@
+@article{sun2023evaluating,
+  title={Evaluating GPT-4 on impressions generation in radiology reports},
+  author={Sun, Zhaoyi and Ong, Hanley and Kennedy, Patrick and Tang, Liyan and Chen, Shirley and Elias, Jonathan and Lucas, Eugene and Shih, George and Peng, Yifan},
+  journal={Radiology},
+  volume={307},
+  number={5},
+  pages={e231259},
+  year={2023},
+  publisher={Radiological Society of North America}
+}
