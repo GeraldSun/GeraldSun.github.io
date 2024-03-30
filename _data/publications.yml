@@ -51,13 +51,37 @@ main:
     image: ./assets/img/202304.jpeg
 
   - title: "Evaluating GPT-4 on impressions generation in radiology reports"
-    authors: Zhaoyi Sun, Hanley Ong, Patrick Kennedy, Liyan Tang, Shirley Chen, Jonathan Elias, Eugene Lucas, George Shih, Yifan Peng
+    authors: <strong>Zhaoyi Sun</strong>, Hanley Ong, Patrick Kennedy, Liyan Tang, Shirley Chen, Jonathan Elias, Eugene Lucas, George Shih, Yifan Peng
     conference_short: Radiology
     conference: Radiology, 2023.
     website: https://pubs.rsna.org/doi/full/10.1148/radiol.231259
-    pdf: https://pubs.rsna.org/doi/epdf/10.1148/radiol.231259
+    #pdf: https://pubs.rsna.org/doi/epdf/10.1148/radiol.231259
     #code: https://github.com/bionlplab/suicide_sdoh
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GLfphoqKrtUJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KEQxM:AFWwaeYAAAAAZgiCWxPjFO_fxngCVVrKvE5tqAU&scisig=AFWwaeYAAAAAZgiCW-E9c-Oc58I0BdJJve7rLs4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202305.gif
+
+  - title: "Maintaining manganese in tumor to activate cGAS-STING pathway evokes a robust abscopal anti-tumor effect"
+    authors: Chao Wang, <strong>Zhaoyi Sun</strong>, Chenxuan Zhao, Zhewei Zhang, Haoran Wang, Yang Liu, Yunfei Guo, Bingtao Zhang, Lihong Gu, Yue Yu, Yiqiao Hu, Jinhui Wu
+    conference_short: J. Control. Release
+    conference: Journal of Controlled Release, 2021.
+    website: https://www.sciencedirect.com/science/article/pii/S0168365921000456
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GLfphoqKrtUJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KEQxM:AFWwaeYAAAAAZgiCWxPjFO_fxngCVVrKvE5tqAU&scisig=AFWwaeYAAAAAZgiCW-E9c-Oc58I0BdJJve7rLs4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/202101.jpg
+
+  - title: "Using HPLC to analyze (S)-oxiracetam and four related substances in the bulk drug of (S)-oxiracetam"
+    authors: Chao Wang, Hong Dong, Honghui Liu, <strong>Zhaoyi Sun</strong>, Ahu Yuan, Jinhui Wu, Yiqiao Hu
+    conference_short: J. Pharm. Biomed. Anal.
+    conference: Journal of Pharmaceutical and Biomedical Analysis, 2020.
+    website: https://www.sciencedirect.com/science/article/abs/pii/S0731708519326330
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GLfphoqKrtUJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KEQxM:AFWwaeYAAAAAZgiCWxPjFO_fxngCVVrKvE5tqAU&scisig=AFWwaeYAAAAAZgiCW-E9c-Oc58I0BdJJve7rLs4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/202001.jpg    
+
+  - title: "Hydrogel-based controlled drug delivery for cancer treatment: a review"
+    authors: <strong>Zhaoyi Sun*</strong>, Chengjun Song*, Chao Wang, Yiqiao Hu, Jinhui Wu (*co-first author)
+    conference_short: Mol. Pharm.
+    conference: Molecular Pharmaceutics, 2020.
+    website: https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.9b01020
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GLfphoqKrtUJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KEQxM:AFWwaeYAAAAAZgiCWxPjFO_fxngCVVrKvE5tqAU&scisig=AFWwaeYAAAAAZgiCW-E9c-Oc58I0BdJJve7rLs4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/202002.jpeg  
 
     
