@@ -11,7 +11,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: preprint
     
-  - title: Automated classification of lay health articles using natural language processing: a case study on pregnancy health and postpartum depression
+  - title: "Automated classification of lay health articles using natural language processing: a case study on pregnancy health and postpartum depression"
     authors: Braja Gopal Patra*, <strong>Zhaoyi Sun*</strong>, Zilin Cheng*, Praneet Kasi Reddy Jagadeesh Kumar, Abdullah Altammami, Yiyang Liu, Rochelle Joly, Caroline Jedlicka, Diana Delgado, Jyotishman Pathak, Yifan Peng, Yiye Zhang (*co-first author)
     conference_short: Front. Psychiatry
     conference: Frontiers in Psychiatry, 2023.
