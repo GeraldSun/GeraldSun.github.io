@@ -1,0 +1,9 @@
+@article{wang2021maintaining,
+  title={Maintaining manganese in tumor to activate cGAS-STING pathway evokes a robust abscopal anti-tumor effect},
+  author={Wang, Chao and Sun, Zhaoyi and Zhao, Chenxuan and Zhang, Zhewei and Wang, Haoran and Liu, Yang and Guo, Yunfei and Zhang, Bingtao and Gu, Lihong and Yu, Yue and others},
+  journal={Journal of Controlled Release},
+  volume={331},
+  pages={480--490},
+  year={2021},
+  publisher={Elsevier}
+}
