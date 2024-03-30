@@ -1,0 +1,10 @@
+@article{tang2023evaluating,
+  title={Evaluating large language models on medical evidence summarization},
+  author={Tang, Liyan and Sun, Zhaoyi and Idnay, Betina and Nestor, Jordan G and Soroush, Ali and Elias, Pierre A and Xu, Ziyang and Ding, Ying and Durrett, Greg and Rousseau, Justin F and others},
+  journal={npj Digital Medicine},
+  volume={6},
+  number={1},
+  pages={158},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
