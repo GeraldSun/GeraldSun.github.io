@@ -7,6 +7,7 @@ main:
     website: https://arxiv.org/abs/2401.15111
     pdf: https://arxiv.org/pdf/2401.15111.pdf
     code: https://github.com/bionlplab/CXRFairness
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PWN20omCwGkJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KHZC4:AFWwaeYAAAAAZgiBfC63TkEc0j7G9twrK03Lobo&scisig=AFWwaeYAAAAAZgiBfKPNEfc2yxQBSSgG7gJT-9w&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202401.png
     notes: preprint
     
@@ -17,6 +18,7 @@ main:
     website: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10694448/
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10694448/pdf/fpsyt-14-1258887.pdf
     code: https://github.com/brajagopalcse/AI_Driven_Patient_Education_Materials
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xBeNEU1vI9sJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KHTU4:AFWwaeYAAAAAZgiBVU50BWBI4v-aPUuoB4cL3wk&scisig=AFWwaeYAAAAAZgiBVQyk1qfq6wxnF0NCfc2yy0s&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202301.jpeg
 
 
@@ -26,6 +28,7 @@ main:
     conference: Journal of Biomedical Informatics <strong>(JBI)</strong>, 2023.
     website: https://www.sciencedirect.com/science/article/pii/S1532046423002034
     pdf: https://arxiv.org/pdf/2307.07362v3.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wTNap7ou61EJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KHAz0:AFWwaeYAAAAAZgiBGz2Y9UL-xgrdzGt0VnFufVw&scisig=AFWwaeYAAAAAZgiBGzW4ZxxalotlY5f3k_FQKLk&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202302.jpg
 
   - title: "Evaluating large language models on medical evidence summarization"
@@ -34,7 +37,18 @@ main:
     conference: npj Digital Medicine, 2023.
     website: https://www.nature.com/articles/s41746-023-00896-7
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10449915/pdf/41746_2023_Article_896.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xcha_d8I1LcJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KG_e0:AFWwaeYAAAAAZgiA5e15TKwaikYmKTarcRCT-fc&scisig=AFWwaeYAAAAAZgiA5QeEMlvXveuqa3tYT6midy0&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202303.png
+
+  - title: "An NLP approach to identify SDoH-related circumstance and suicide crisis from death investigation narratives"
+    authors: Song Wang, Yifang Dang, <strong>Zhaoyi Sun</strong>, Ying Ding, Jyotishman Pathak, Cui Tao, Yunyu Xiao, Yifan Peng
+    conference_short: JAMIA
+    conference: Journal of the American Medical Informatics Association, 2023.
+    website: https://academic.oup.com/jamia/article/30/8/1408/7114858#google_vignette
+    # pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10694448/pdf/fpsyt-14-1258887.pdf
+    code: https://github.com/bionlplab/suicide_sdoh
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xamNunAekXEJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4J5BRc:AFWwaeYAAAAAZgh_HRfoYlFaqTDG1m_T4kgswto&scisig=AFWwaeYAAAAAZgh_HaTnfCSMNK-RK34oaCnH6Ew&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/202304.jpeg
     
 
     
