@@ -1,0 +1,10 @@
+@article{sun2019hydrogel,
+  title={Hydrogel-based controlled drug delivery for cancer treatment: a review},
+  author={Sun, Zhaoyi and Song, Chengjun and Wang, Chao and Hu, Yiqiao and Wu, Jinhui},
+  journal={Molecular pharmaceutics},
+  volume={17},
+  number={2},
+  pages={373--391},
+  year={2019},
+  publisher={ACS Publications}
+}
