@@ -4,6 +4,7 @@ main:
     authors: Mingquan Lin, Tianhao Li, <strong>Zhaoyi Sun</strong>, Gregory Holste, Ying Ding, Fei Wang, George Shih, Yifan Peng
     conference_short: arXiv
     conference: arXiv.org <strong>(ArXiv)</strong>, 2024.
+    website: https://arxiv.org/abs/2401.15111
     pdf: https://arxiv.org/pdf/2401.15111.pdf
     code: https://github.com/bionlplab/CXRFairness
     # bibtex: https://bib.yliu.me/MICCAI23.txt
