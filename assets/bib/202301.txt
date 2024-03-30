@@ -1,0 +1,9 @@
+@article{patra2023automated,
+  title={Automated classification of lay health articles using natural language processing: a case study on pregnancy health and postpartum depression},
+  author={Patra, Braja Gopal and Sun, Zhaoyi and Cheng, Zilin and Joly, Rochelle and Pathak, Jyotishman and Peng, Yifan},
+  journal={Frontiers in Psychiatry},
+  volume={14},
+  pages={1258887},
+  year={2023},
+  publisher={Frontiers}
+}
