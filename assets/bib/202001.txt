@@ -1,0 +1,9 @@
+@article{wang2020using,
+  title={Using HPLC to analyze (S)-oxiracetam and four related substances in the bulk drug of (S)-oxiracetam},
+  author={Wang, Chao and Dong, Hong and Liu, Honghui and Sun, Zhaoyi and Yuan, Ahu and Wu, Jinhui and Hu, Yiqiao},
+  journal={Journal of pharmaceutical and biomedical analysis},
+  volume={180},
+  pages={113072},
+  year={2020},
+  publisher={Elsevier}
+}
