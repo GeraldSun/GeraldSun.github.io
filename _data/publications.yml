@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/pdf/2401.15111.pdf
     code: https://github.com/bionlplab/CXRFairness
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/202401.png
     notes: preprint
     
   - title: "Automated classification of lay health articles using natural language processing: a case study on pregnancy health and postpartum depression"
@@ -19,7 +19,7 @@ main:
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10694448/pdf/fpsyt-14-1258887.pdf
     code: https://github.com/brajagopalcse/AI_Driven_Patient_Education_Materials
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/202301.jpeg
     # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
