@@ -1,0 +1,6 @@
+@article{lin2024improving,
+  title={Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning},
+  author={Lin, Mingquan and Li, Tianhao and Sun, Zhaoyi and Holste, Gregory and Ding, Ying and Wang, Fei and Shih, George and Peng, Yifan},
+  journal={arXiv preprint arXiv:2401.15111},
+  year={2024}
+}
