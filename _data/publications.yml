@@ -43,12 +43,21 @@ main:
   - title: "An NLP approach to identify SDoH-related circumstance and suicide crisis from death investigation narratives"
     authors: Song Wang, Yifang Dang, <strong>Zhaoyi Sun</strong>, Ying Ding, Jyotishman Pathak, Cui Tao, Yunyu Xiao, Yifan Peng
     conference_short: JAMIA
-    conference: Journal of the American Medical Informatics Association, 2023.
+    conference: Journal of the American Medical Informatics Association <strong>(JAMIA)</strong>, 2023.
     website: https://academic.oup.com/jamia/article/30/8/1408/7114858#google_vignette
     # pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10694448/pdf/fpsyt-14-1258887.pdf
     code: https://github.com/bionlplab/suicide_sdoh
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xamNunAekXEJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4J5BRc:AFWwaeYAAAAAZgh_HRfoYlFaqTDG1m_T4kgswto&scisig=AFWwaeYAAAAAZgh_HaTnfCSMNK-RK34oaCnH6Ew&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/202304.jpeg
-    
+
+  - title: "Evaluating GPT-4 on impressions generation in radiology reports"
+    authors: Zhaoyi Sun, Hanley Ong, Patrick Kennedy, Liyan Tang, Shirley Chen, Jonathan Elias, Eugene Lucas, George Shih, Yifan Peng
+    conference_short: Radiology
+    conference: Radiology, 2023.
+    website: https://pubs.rsna.org/doi/full/10.1148/radiol.231259
+    pdf: https://pubs.rsna.org/doi/epdf/10.1148/radiol.231259
+    #code: https://github.com/bionlplab/suicide_sdoh
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GLfphoqKrtUJ:scholar.google.com/&output=citation&scisdr=ClF9xofZEJzUh4KEQxM:AFWwaeYAAAAAZgiCWxPjFO_fxngCVVrKvE5tqAU&scisig=AFWwaeYAAAAAZgiCW-E9c-Oc58I0BdJJve7rLs4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/202305.gif
 
     
