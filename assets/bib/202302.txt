@@ -1,0 +1,8 @@
+@article{sun2023scoping,
+  title={A scoping review on multimodal deep learning in biomedical images and texts},
+  author={Sun, Zhaoyi and Lin, Mingquan and Zhu, Qingqing and Xie, Qianqian and Wang, Fei and Lu, Zhiyong and Peng, Yifan},
+  journal={Journal of Biomedical Informatics},
+  pages={104482},
+  year={2023},
+  publisher={Elsevier}
+}
