@@ -51,7 +51,7 @@ main:
     image: ./assets/img/202304.jpeg
 
   - title: "Evaluating GPT-4 on impressions generation in radiology reports"
-    authors: <strong>Zhaoyi Sun</strong>, Hanley Ong, Patrick Kennedy, Liyan Tang, Shirley Chen, Jonathan Elias, Eugene Lucas, George Shih, Yifan Peng
+    authors: <strong>Zhaoyi Sun*</strong>, Hanley Ong*, Patrick Kennedy, Liyan Tang, Shirley Chen, Jonathan Elias, Eugene Lucas, George Shih, Yifan Peng (*co-first author)
     conference_short: Radiology
     conference: Radiology, 2023.
     website: https://pubs.rsna.org/doi/full/10.1148/radiol.231259
