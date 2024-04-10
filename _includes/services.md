@@ -11,4 +11,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://amia.org/"><autocolor>Member of <u>American Medical Informatics Association</u> (AMIA)</autocolor></a></li>
+  <li><a href="https://www.ieee.org/"><autocolor>Member of <u>Institute of Electrical and Electronics Engineers</u> (IEEE)</autocolor></a></li>
 </ul>
+
