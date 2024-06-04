@@ -7,6 +7,12 @@
   <li><a href="https://www.jmir.org/"><autocolor><u>Journal of Medical Internet Research</u> (JMIR)</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://amia.org/"><autocolor><u>American Medical Informatics Association</u> (AMIA)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Membership</h4>
 
 <ul style="margin:0 0 20px;">
