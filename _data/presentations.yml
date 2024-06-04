@@ -1,5 +1,16 @@
 main:
 
+  - title: An Enhanced Multimodal Multilingual Dataset for Medical Misinformation Detection
+    authors: <strong>Zhaoyi Sun</strong>, Yujuan Fu, Wen-wai Yim, Meliha Yetisgen, Fei Xia
+    conference_short: ICHI
+    conference: The 12th IEEE International Conference on Healthcare Informatics, 2024.
+    website: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
+    pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
+    # bibtex: ./assets/bib/202401.txt 
+    image: ./assets/img/202402.png
+    slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
+    notes: Doctoral Consortium
+    
   - title: Innovative Analysis of Social Determinants to Enhance Suicide Prevention for Black Youth
     authors: <strong>Zhaoyi Sun</strong>, Song Wang, Ying Ding, Yongkang Zhang, Jyotishman Pathak, Yifan Peng, Yunyu Xiao
     conference_short: AMIA
@@ -10,12 +21,4 @@ main:
     image: ./assets/img/202306.png
     notes: Podium Abstract
 
-  - title: An Enhanced Multimodal Multilingual Dataset for Medical Misinformation Detection
-    authors: <strong>Zhaoyi Sun</strong>, Yujuan Fu, Wen-wai Yim, Meliha Yetisgen, Fei Xia
-    conference_short: ICHI
-    conference: The 12th IEEE International Conference on Healthcare Informatics, 2024.
-    website: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
-    pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
-    # bibtex: ./assets/bib/202401.txt 
-    image: ./assets/img/202402.png
-    notes: Doctoral Consortium
+
