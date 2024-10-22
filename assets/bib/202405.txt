@@ -1,0 +1,8 @@
+@inproceedings{yim2024dermavqa,
+  title={Dermavqa: A multilingual visual question answering dataset for dermatology},
+  author={Yim, Wen-wai and Fu, Yujuan and Sun, Zhaoyi and Abacha, Asma Ben and Yetisgen, Meliha and Xia, Fei},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={209--219},
+  year={2024},
+  organization={Springer}
+}
