@@ -1,0 +1,7 @@
+@inproceedings{yim2024overview,
+  title={Overview of the MEDIQA-M3G 2024 Shared Task on Multilingual Multimodal Medical Answer Generation},
+  author={Yim, Wen-wai and Abacha, Asma Ben and Fu, Yujuan and Sun, Zhaoyi and Xia, Fei and Yetisgen-Yildiz, Meliha and Krallinger, Martin},
+  booktitle={Proceedings of the 6th Clinical Natural Language Processing Workshop},
+  pages={581--589},
+  year={2024}
+}
