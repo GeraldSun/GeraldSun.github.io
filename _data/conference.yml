@@ -5,19 +5,34 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024.
     website: https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20
-    # pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
-    # bibtex: ./assets/bib/202401.txt 
+    bibtex: ./assets/bib/202405.txt 
     image: ./assets/img/202406.png
-    # slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
-    # notes: Doctoral Consortium
+
+  - title: "Overview of the MEDIQA-M3G 2024 Shared Task on Multilingual Multimodal Medical Answer Generation"
+    authors: Wen-wai Yim, Asma Ben Abacha, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Fei Xia, Meliha Yetisgen, Martin Krallinger
+    conference_short: clinicalnlp
+    conference: Proceedings of the 6th Clinical Natural Language Processing Workshop, 2024.
+    website: https://aclanthology.org/2024.clinicalnlp-1.55
+    pdf: https://aclanthology.org/2024.clinicalnlp-1.55.pdf
+    bibtex: ./assets/bib/202404.txt 
+    image: ./assets/img/202405.png
+
+  - title: "Overview of the MEDIQA-CORR 2024 Shared Task on Medical Error Detection and Correction"
+    authors: Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Fei Xia, Meliha Yetisgen
+    conference_short: clinicalnlp
+    conference: Proceedings of the 6th Clinical Natural Language Processing Workshop, 2024.
+    website: https://aclanthology.org/2024.clinicalnlp-1.57
+    pdf: https://aclanthology.org/2024.clinicalnlp-1.57.pdf
+    bibtex: ./assets/bib/202403.txt 
+    image: ./assets/img/202404.png
+
+  - title: "Overview of the MEDIQA-MAGIC Task at ImageCLEF 2024: Multimodal And Generative TelemedICine in Dermatology"
+    authors: Wen-wai Yim, Asma Ben Abacha, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Meliha Yetisgen, Fei Xia
+    conference_short: CLEF
+    conference: Conference and Labs of the Evaluation Forum, 2024.
+    website: https://ceur-ws.org/Vol-3740/paper-133.pdf
+    pdf: https://ceur-ws.org/Vol-3740/paper-133.pdf
+    bibtex: ./assets/bib/202402.txt 
+    image: ./assets/img/202403.png
+
     
-  - title: "Dermavqa: A multilingual visual question answering dataset for dermatology"
-    authors: Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Asma Ben Abacha, Meliha Yetisgen, Fei Xia
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024.
-    website: https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20
-    # pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
-    # bibtex: ./assets/bib/202401.txt 
-    image: ./assets/img/202406.png
-    # slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
-    # notes: Doctoral Consortium
