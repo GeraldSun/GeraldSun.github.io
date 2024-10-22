@@ -11,6 +11,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://amia.org/"><autocolor><u>American Medical Informatics Association</u> (AMIA)</autocolor></a></li>
+  <li><a href="https://events.dimes.unical.it/ichi2025/"><autocolor><u>IEEE International Conference on Healthcare Informatics 2025</u> (IEEE ICHI 2025)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership</h4>
