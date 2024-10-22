@@ -18,7 +18,7 @@ main:
     website: ./assets/files/Innovative Analysis of Social_SUN.pdf
     pdf: ./assets/files/Innovative Analysis of Social_SUN.pdf
     # bibtex: ./assets/bib/202401.txt 
-    # image: ./assets/img/202306.png
+    image: ./assets/img/202306.png
     notes: Podium Abstract
 
 
