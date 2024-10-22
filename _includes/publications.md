@@ -5,7 +5,7 @@
   
 <h3 style="margin:0 10px 0;">Journal Articles</h3>
   
-{% for link in site.data.publications.main %}
+{% for link in site.data.journal.main %}
 
 <li>
 <div class="pub-row">
