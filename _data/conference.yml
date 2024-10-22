@@ -11,3 +11,13 @@ main:
     # slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
     # notes: Doctoral Consortium
     
+  - title: Dermavqa: A multilingual visual question answering dataset for dermatology
+    authors: Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Asma Ben Abacha, Meliha Yetisgen, Fei Xia
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024.
+    website: https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20
+    # pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
+    # bibtex: ./assets/bib/202401.txt 
+    image: ./assets/img/202406.png
+    # slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
+    # notes: Doctoral Consortium
