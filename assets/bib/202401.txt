@@ -1,6 +1,8 @@
 @article{lin2024improving,
-  title={Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning},
+  title={Improving Fairness of Automated Chest Radiograph Diagnosis by Contrastive Learning},
   author={Lin, Mingquan and Li, Tianhao and Sun, Zhaoyi and Holste, Gregory and Ding, Ying and Wang, Fei and Shih, George and Peng, Yifan},
-  journal={arXiv preprint arXiv:2401.15111},
-  year={2024}
+  journal={Radiology: Artificial Intelligence},
+  pages={e230342},
+  year={2024},
+  publisher={Radiological Society of North America}
 }
