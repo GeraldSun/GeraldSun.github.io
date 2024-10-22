@@ -1,0 +1,6 @@
+@inproceedings{yim2024overview,
+  title={Overview of the MEDIQA-magic task at ImageCLEF 2024: multimodal and generative telemedicine in dermatology},
+  author={Yim, Wen-wai and Abacha, A Ben and Fu, Yujuan and Sun, Zhaoyi and Yetisgen, Meliha and Xia, Fei},
+  year={2024},
+  organization={CLEF}
+}
