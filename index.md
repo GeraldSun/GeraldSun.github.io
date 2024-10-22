@@ -21,6 +21,4 @@ I am a Ph.D. student in Biomedical and Health Informatics at the [University of 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/presentations.md %}
-
 {% include_relative _includes/services.md %}
