@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
   
-<h4 style="margin:0 10px 0;">Journal Articles</h4>
+<h3 style="margin:0 10px 0;">Journal Articles</h3>
   
 {% for link in site.data.publications.main %}
 
@@ -53,7 +53,8 @@
 
 {% endfor %}
 
-<h4 style="margin:0 10px 0;">Posters and Presentations</h4>
+<h3 style="margin:0 10px 0;">Posters and Presentations</h3>
+
 {% for link in site.data.presentations.main %}
 
 <li>
