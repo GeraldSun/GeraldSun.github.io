@@ -5,18 +5,9 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024.
     website: https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20
-    pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
+    # pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
     # bibtex: ./assets/bib/202401.txt 
-    image: ./assets/img/202402.png
-    slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
-    notes: Doctoral Consortium
+    image: ./assets/img/202406.png
+    # slides: ./assets/files/ICHI2024_Zhaoyi_Sun.pdf
+    # notes: Doctoral Consortium
     
-  - title: Innovative Analysis of Social Determinants to Enhance Suicide Prevention for Black Youth
-    authors: <strong>Zhaoyi Sun</strong>, Song Wang, Ying Ding, Yongkang Zhang, Jyotishman Pathak, Yifan Peng, Yunyu Xiao
-    conference_short: AMIA
-    conference: AMIA 2023 Annual Symposium, 2023.
-    website: ./assets/files/Innovative Analysis of Social_SUN.pdf
-    pdf: ./assets/files/Innovative Analysis of Social_SUN.pdf
-    # bibtex: ./assets/bib/202401.txt 
-    image: ./assets/img/202306.png
-    notes: Podium Abstract
