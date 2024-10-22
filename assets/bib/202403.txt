@@ -1,0 +1,7 @@
+@inproceedings{abacha2024overview,
+  title={Overview of the mediqa-corr 2024 shared task on medical error detection and correction},
+  author={Abacha, Asma Ben and Yim, Wen-wai and Fu, Yujuan and Sun, Zhaoyi and Xia, Fei and Yetisgen-Yildiz, Meliha},
+  booktitle={Proceedings of the 6th Clinical Natural Language Processing Workshop},
+  pages={596--603},
+  year={2024}
+}
