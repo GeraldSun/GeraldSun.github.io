@@ -3,7 +3,7 @@ main:
   - title: Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning
     authors: Mingquan Lin, Tianhao Li, <strong>Zhaoyi Sun</strong>, Gregory Holste, Ying Ding, Fei Wang, George Shih, Yifan Peng
     conference_short: Rad. AI
-    conference: Radiology: Artificial Intelligence, 2024.
+    conference: "Radiology: Artificial Intelligence, 2024."
     website: https://pubs.rsna.org/doi/abs/10.1148/ryai.230342
     # pdf: https://arxiv.org/pdf/2401.15111.pdf
     code: https://github.com/bionlplab/CXRFairness
