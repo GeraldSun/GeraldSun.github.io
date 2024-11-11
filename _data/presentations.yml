@@ -6,7 +6,7 @@ main:
     website: ./assets/files/An Ontology Guided Analysis_SUN.pdf
     pdf: ./assets/files/An Ontology Guided Analysis_SUN.pdf
     poster: ./assets/files/P94_Zhaoyi_Sun.pdf
-    image: ./assets/img/202307.png
+    image: ./assets/img/202407.png
     notes: Poster
   
   - title: An Enhanced Multimodal Multilingual Dataset for Medical Misinformation Detection
