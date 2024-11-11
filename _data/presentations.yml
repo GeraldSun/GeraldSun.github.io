@@ -1,9 +1,18 @@
 main:
-
+  - title: An Ontology-Guided Analysis to Unveil Disparities of Social History Documentation in Discharge Notes
+    authors: <strong>Zhaoyi Sun</strong>, Sitong Liu, Wenyu Zeng, John Gennari
+    conference_short: AMIA
+    conference: AMIA 2024 Annual Symposium, San Francisco, 2024.
+    website: ./assets/files/An Ontology Guided Analysis_SUN.pdf
+    pdf: ./assets/files/An Ontology Guided Analysis_SUN.pdf
+    poster: ./assets/files/P94_Zhaoyi_Sun.pdf
+    image: ./assets/img/202307.png
+    notes: Poster
+  
   - title: An Enhanced Multimodal Multilingual Dataset for Medical Misinformation Detection
     authors: <strong>Zhaoyi Sun</strong>, Yujuan Fu, Wen-wai Yim, Meliha Yetisgen, Fei Xia
     conference_short: ICHI
-    conference: The 12th IEEE International Conference on Healthcare Informatics, 2024.
+    conference: The 12th IEEE International Conference on Healthcare Informatics, Orlando, 2024.
     website: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
     pdf: ./assets/files/ICHI_2024_Doctoral_Consortium.pdf
     # bibtex: ./assets/bib/202401.txt 
@@ -14,7 +23,7 @@ main:
   - title: Innovative Analysis of Social Determinants to Enhance Suicide Prevention for Black Youth
     authors: <strong>Zhaoyi Sun</strong>, Song Wang, Ying Ding, Yongkang Zhang, Jyotishman Pathak, Yifan Peng, Yunyu Xiao
     conference_short: AMIA
-    conference: AMIA 2023 Annual Symposium, 2023.
+    conference: AMIA 2023 Annual Symposium, New Orleans, 2023.
     website: ./assets/files/Innovative Analysis of Social_SUN.pdf
     pdf: ./assets/files/Innovative Analysis of Social_SUN.pdf
     # bibtex: ./assets/bib/202401.txt 
