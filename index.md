@@ -14,6 +14,7 @@ I am a Ph.D. student in Biomedical and Health Informatics at the [University of 
 
 ## News
 
+- **[Nov. 2024]** I gave a poster presentation at AMIA 2024 Annual Symposium in San Francisco, California. 
 - **[Oct. 2024]** I just passed my Ph.D. qualifying exam at the University of Washington!
 - **[Aug. 2024]** Our paper about automated chest radiograph diagnosis is accepted by Radiology: Artifical Intelligence.
 - **[Jul. 2024]** Our dermatology dataset paper is accepted to MICCAI 2024 in Marrakesh, Morocco.
