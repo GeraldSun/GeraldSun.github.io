@@ -1,5 +1,4 @@
 main:
-
   - title: "MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes"
     authors: Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Meliha Yetisgen, Fei Xia, Thomas Lin
     conference_short: ACL
