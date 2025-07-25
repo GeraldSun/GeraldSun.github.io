@@ -1,0 +1,22 @@
+@inproceedings{ben-abacha-etal-2025-medec,
+    title = "{MEDEC}: A Benchmark for Medical Error Detection and Correction in Clinical Notes",
+    author = "Ben Abacha, Asma  and
+      Yim, Wen-wai  and
+      Fu, Yujuan  and
+      Sun, Zhaoyi  and
+      Yetisgen, Meliha  and
+      Xia, Fei  and
+      Lin, Thomas",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.1159/",
+    pages = "22539--22550",
+    ISBN = "979-8-89176-256-5"
+}

@@ -1,0 +1,11 @@
+@article{SUN2025104866,
+title = {A scoping review of natural language processing in addressing medically inaccurate information: Errors, misinformation, and hallucination},
+journal = {Journal of Biomedical Informatics},
+volume = {169},
+pages = {104866},
+year = {2025},
+issn = {1532-0464},
+doi = {https://doi.org/10.1016/j.jbi.2025.104866},
+url = {https://www.sciencedirect.com/science/article/pii/S1532046425000954},
+author = {Zhaoyi Sun and Wen-Wai Yim and Özlem Uzuner and Fei Xia and Meliha Yetisgen}
+}
