@@ -1,5 +1,13 @@
 main:
 
+  - title: "A scoping review of natural language processing in addressing medically inaccurate information: Errors, misinformation, and hallucination"
+    authors: <strong>Zhaoyi Sun</strong>, Wen-Wai Yim, Özlem Uzuner, Fei Xia, Meliha Yetisgen 
+    conference_short: JBI
+    conference: Journal of Biomedical Informatics <strong>(JBI)</strong>, 2025.
+    website: https://www.sciencedirect.com/science/article/pii/S1532046425000954
+    bibtex: ./assets/bib/202502.txt
+    image: ./assets/img/202502.jpg
+    
   - title: Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning
     authors: Mingquan Lin, Tianhao Li, <strong>Zhaoyi Sun</strong>, Gregory Holste, Ying Ding, Fei Wang, George Shih, Yifan Peng
     conference_short: Rad. AI
