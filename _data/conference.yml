@@ -2,7 +2,7 @@ main:
   - title: "MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes"
     authors: Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Meliha Yetisgen, Fei Xia, Thomas Lin
     conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics: ACL 2025
+    conference: Findings of the Association for Computational Linguistics (ACL), 2025
     website: https://aclanthology.org/2025.findings-acl.1159/
     pdf: https://aclanthology.org/2025.findings-acl.1159.pdf
     bibtex: ./assets/bib/202501.txt 
