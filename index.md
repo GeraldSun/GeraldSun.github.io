@@ -13,6 +13,8 @@ I am a Ph.D. student in Biomedical and Health Informatics at the [University of 
 - **Muitimodal Deep Learning in Biomedical Images and Text**
 
 ## News
+- **[Nov. 2025]** I gave a poster presentation at AMIA 2025 Annual Symposium in Atlanta, Georgia. 
+- **[Sep. 2025]** Our UW-BioNLP team won first place in the ChemoTimelines 2025 Shared Task.
 - **[Jul. 2025]** Our review paper about NLP in addressing medically inaccurate information is accepted by JBI.
 - **[Jun. 2025]** I have started a clinical NLP summer internship in the Computational Health Informatics Program (CHIP)at Boston Children's Hospital, Harvard Medical School. 
 - **[May. 2025]** Our medical error dataset paper is accepted to ACL findings 2025 in Vienna, Austria.
