@@ -1,4 +1,12 @@
 main:
+  - title: "Automated Identification of Incidentalomas Requiring Follow-Up: A Multi-Anatomy Evaluation of LLM-Based and Supervised Approaches"
+    authors: Namu Park, Farzad Ahmed, <strong>Zhaoyi Sun</strong>, Kevin Lybarger, Ethan Breinhorst, Julie Hu, Özlem Uzuner, Martin Gunn, Meliha Yetisgen 
+    conference_short: ArXiv
+    conference: ArXiv
+    website: https://arxiv.org/abs/2512.05537
+    # bibtex: ./assets/bib/202502.txt
+    image: ./assets/img/202504.png
+  
   - title: "A scoping review of natural language processing in addressing medically inaccurate information: Errors, misinformation, and hallucination"
     authors: <strong>Zhaoyi Sun</strong>, Wen-Wai Yim, Özlem Uzuner, Fei Xia, Meliha Yetisgen 
     conference_short: JBI
