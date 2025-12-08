@@ -6,7 +6,7 @@ main:
     website: ./assets/files/An NLP Method to_SUN.pdf
     pdf: ./assets/files/An NLP Method to_SUN.pdf
     poster: ./assets/files/AMIA2025.pdf
-    image: ./assets/img/202407.png
+    image: ./assets/img/202505.png
     notes: Poster  
   
   - title: An Ontology-Guided Analysis to Unveil Disparities of Social History Documentation in Discharge Notes
