@@ -1,0 +1,6 @@
+@article{zhang2025uw,
+  title={UW-BioNLP at ChemoTimelines 2025: Thinking, Fine-Tuning, and Dictionary-Enhanced LLM Systems for Chemotherapy Timeline Extraction},
+  author={Zhang, Tianmai M and Sun, Zhaoyi and Zeng, Sihang and Li, Chenxi and Abernethy, Neil F and Lam, Barbara D and Xia, Fei and Yetisgen, Meliha},
+  journal={arXiv preprint arXiv:2512.04518},
+  year={2025}
+}
