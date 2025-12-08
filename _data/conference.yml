@@ -1,4 +1,13 @@
 main:
+  - title: "UW-BioNLP at ChemoTimelines 2025: Thinking, Fine-Tuning, and Dictionary-Enhanced LLM Systems for Chemotherapy Timeline Extraction"
+    authors: Tianmai Zhang, <strong>Zhaoyi Sun</strong>, Sihang Zeng, Chenxi Li, Neil F. Abernethy, Barbara D. Lam, Fei Xia, Meliha Yetisgen
+    conference_short: clinicalnlp
+    conference: Proceedings of the 7th Clinical Natural Language Processing Workshop, 2025.
+    website: https://arxiv.org/abs/2512.04518
+    pdf: https://arxiv.org/pdf/2512.04518
+    bibtex: ./assets/bib/202503.txt 
+    image: ./assets/img/202503.png 
+  
   - title: "MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes"
     authors: Asma Ben Abacha, Wen-wai Yim, Yujuan Fu, <strong>Zhaoyi Sun</strong>, Meliha Yetisgen, Fei Xia, Thomas Lin
     conference_short: ACL
