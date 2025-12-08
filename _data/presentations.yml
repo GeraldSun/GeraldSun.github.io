@@ -1,6 +1,6 @@
 main:
   - title: An NLP Method to Identify Macro Guideline Sentences in Radiology Reports
-    authors: <strong>Zhaoyi Sun</strong>, Namu Park, Ozlem Uzuner, Martin Gunn, Meliha Yetisgen
+    authors: <strong>Zhaoyi Sun</strong>, Namu Park, Özlem Uzuner, Martin Gunn, Meliha Yetisgen
     conference_short: AMIA
     conference: AMIA 2025 Annual Symposium, Atlanta, 2024.
     website: ./assets/files/An NLP Method to_SUN.pdf
