@@ -1,6 +1,6 @@
 main:
   - title: "UW-BioNLP at ChemoTimelines 2025: Thinking, Fine-Tuning, and Dictionary-Enhanced LLM Systems for Chemotherapy Timeline Extraction"
-    authors: Tianmai Zhang, <strong>Zhaoyi Sun</strong>, Sihang Zeng, Chenxi Li, Neil F. Abernethy, Barbara D. Lam, Fei Xia, Meliha Yetisgen
+    authors: Tianmai Zhang*, <strong>Zhaoyi Sun*</strong>, Sihang Zeng*, Chenxi Li*, Neil F. Abernethy, Barbara D. Lam, Fei Xia, Meliha Yetisgen (*co-first author)
     conference_short: clinicalnlp
     conference: Proceedings of the 7th Clinical Natural Language Processing Workshop, 2025.
     website: https://arxiv.org/abs/2512.04518
