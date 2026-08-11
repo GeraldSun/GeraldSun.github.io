@@ -13,6 +13,9 @@ I am a Ph.D. student in Biomedical and Health Informatics at the [University of 
 - **Muitimodal Deep Learning in Biomedical Images and Text**
 
 ## News
+- **[Aug. 2026]** Our radiology report review benchmark paper is accepted to MICCAI 2026 in Strasbourg, France.
+- **[Jun. 2026]** I just passed my Ph.D. general exam at the University of Washington!
+- **[Mar. 2026]** Our paper about automated incidentalomas identification is accepted by JBI.
 - **[Nov. 2025]** I gave a poster presentation at AMIA 2025 Annual Symposium in Atlanta, Georgia. 
 - **[Sep. 2025]** Our UW-BioNLP team won first place in the ChemoTimelines 2025 Shared Task.
 - **[Jul. 2025]** Our review paper about NLP in addressing medically inaccurate information is accepted by JBI.
