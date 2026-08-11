@@ -1,0 +1,6 @@
+@article{sun2026radar,
+  title={RADAR: A Multimodal Benchmark for 3D Image-Based Radiology Report Review},
+  author={Sun, Zhaoyi and Jagtiani, Minal and Yim, Wen-wai and Xia, Fei and Gunn, Martin and Yetisgen, Meliha and Abacha, Asma Ben},
+  journal={arXiv preprint arXiv:2603.06681},
+  year={2026}
+}
