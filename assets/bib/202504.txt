@@ -1,0 +1,8 @@
+@article{park2026automated,
+  title={Automated identification of incidentalomas requiring follow-up: A multi-anatomy evaluation of LLM-based and supervised approaches},
+  author={Park, Namu and Ahmed, Farzad and Sun, Zhaoyi and Lybarger, Kevin and Breinhorst, Ethan and Hu, Julie and Uzuner, {\"O}zlem and Gunn, Martin and Yetisgen, Meliha},
+  journal={Journal of biomedical informatics},
+  pages={105048},
+  year={2026},
+  publisher={Elsevier}
+}
