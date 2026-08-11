@@ -1,6 +1,6 @@
 main:
   - title: "RADAR: A Multimodal Benchmark for 3D Image-Based Radiology Report Review"
-    authors: <strong>Zhaoyi Sun*</strong>, Minal Jagtiani, Wen-wai Yim, Fei Xia, Martin Gunn, Meliha Yetisgen, Asma Ben Abacha
+    authors: <strong>Zhaoyi Sun</strong>, Minal Jagtiani, Wen-wai Yim, Fei Xia, Martin Gunn, Meliha Yetisgen, Asma Ben Abacha
     conference_short: MICCAI
     conference: Medical Image Computing and Computer Assisted Intervention (MICCAI), 2026.
     website: https://arxiv.org/abs/2603.06681
