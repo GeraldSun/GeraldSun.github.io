@@ -1,9 +1,9 @@
 main:
   - title: "Automated Identification of Incidentalomas Requiring Follow-Up: A Multi-Anatomy Evaluation of LLM-Based and Supervised Approaches"
     authors: Namu Park, Farzad Ahmed, <strong>Zhaoyi Sun</strong>, Kevin Lybarger, Ethan Breinhorst, Julie Hu, Özlem Uzuner, Martin Gunn, Meliha Yetisgen 
-    conference_short: ArXiv
-    conference: ArXiv
-    website: https://arxiv.org/abs/2512.05537
+    conference_short: JBI
+    conference: Journal of Biomedical Informatics <strong>(JBI)</strong>, 2026.
+    website: https://www.sciencedirect.com/science/article/pii/S1532046426000729
     # bibtex: ./assets/bib/202502.txt
     image: ./assets/img/202504.png
   
